@@ -2,7 +2,7 @@
 
 ### Core Concepts:
 
-- **Variables:**
+- **Variables -**
 - **Providers:**
 - **Modules:**
 - **State:**
